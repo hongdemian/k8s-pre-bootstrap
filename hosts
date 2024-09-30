@@ -1,7 +1,7 @@
 [k8snodes]
-k8smaster01.hyatt.local
-k8smaster02.hyatt.local
-k8snode01.hyatt.local
-k8snode02.hyatt.local
-k8snode03.hyatt.local
-k8snode04.hyatt.local
+10.12.42.11 k8smaster01.hyatt.local
+10.12.42.12 k8smaster02.hyatt.local
+10.12.42.21 k8snode01.hyatt.local
+10.12.42.22 k8snode02.hyatt.local
+10.12.42.23 k8snode03.hyatt.local
+10.12.42.24 k8snode04.hyatt.local
