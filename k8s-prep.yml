@@ -1,9 +1,10 @@
 ---
 - name: Prepare Kubernetes Nodes for Cluster bootstrapping
   hosts: all
-  remote_user: root
+  remote_user: ansible
   become: yes
   become_method: sudo
+  become_user: root
   #gather_facts: no
   vars:
     k8s_version: "1.30"                                  # Kubernetes version to be installed
