@@ -1,7 +1,7 @@
 [k8snodes]
-k8smaster01
-k8smaster02
-k8snode01
-k8snode02
-k8snode03
-k8snode04
+k8smaster01.hyatt.local
+k8smaster02.hyatt.local
+k8snode01.hyatt.local
+k8snode02.hyatt.local
+k8snode03.hyatt.local
+k8snode04.hyatt.local
