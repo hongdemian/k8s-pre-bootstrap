@@ -1,4 +1,7 @@
 [k8snodes]
 k8smaster01
+k8smaster02
 k8snode01
 k8snode02
+k8snode03
+k8snode04
