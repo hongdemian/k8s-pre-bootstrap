@@ -1,6 +1,6 @@
 ---
 - name: Prepare Kubernetes Nodes for Cluster bootstrapping
-  hosts: k8snodes
+  hosts: control
   remote_user: ansible
   become: yes
   become_method: sudo
